@@ -1,7 +1,7 @@
 
 
 ## 🎓 Cursos 
-Todas minhas certificações de cursos (+EaDs e Eventos);  
+Minhas participações em Cursos, Eventos e Treinamentos.  
 
 ### 🧑‍💻 Computação/TI
 
