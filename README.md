@@ -8,6 +8,7 @@ Minhas participações em Cursos, Eventos e Treinamentos.
 | Órgão emissor      | Curso                                                            | Carga horária      | 
 | ------------------ | ---------------------------------------------------------------- | ------------------ | 
 |IFAM                | **Programador de Sistemas**                                      | 200 Horas          | 
+|Coursera            | **Fundamentos do Suporte Técnico**                               | 24 Horas           | 
 |CETAM               | **Informática Básica(Plataforma Windows)**                       | 80 Horas           | 
 |Unieducar           | **Planejamento e Gestão Ágil de Projetos**                       | 4 Horas            | 
 |DIO                 | **Projetos ágeis com SCRUM**                                     | 2 Horas            | 
